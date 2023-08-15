@@ -3,3 +3,6 @@ This is an algorithm developed for the Nvidia Deep learning and AI course. To us
 
 This code can be modified to a security system which is what I will develop.
 
+Here is a video showcasing the code:
+  https://youtu.be/24DbnAYbvqk
+
